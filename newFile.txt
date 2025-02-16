@@ -3,3 +3,6 @@ Hello from the Main branch!
 Hello from the secbranch!
 
 Hello from the Reset Activity!
+
+Hello from the firstbr! -- Hello from the GitAmend branch!
+
