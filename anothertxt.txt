@@ -1,3 +1,5 @@
 This message will be amended.
 
 Commit #2 during squash activity.
+
+Commit #3 during squash activity.
