@@ -1,3 +1,5 @@
 Hello from the Main branch!
 
 Hello from the secbranch!
+
+Hello from the Reset Activity!
