@@ -7,3 +7,4 @@ Hello from the Reset Activity!
 Hello from the firstbr! -- Hello from the GitAmend branch!
 
 This is the rebasing activty 1.
+This is a second change for rebasing activity 1.
