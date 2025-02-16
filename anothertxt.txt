@@ -16,3 +16,7 @@ Commit #8 during squash activity.
 
 This is developer 1's rebasing change.
 This is another change by developer 1.
+
+Commit #10 - Dev1Feat2 Commit - Rebase Activity 2.
+Commit #11 - Dev1Feat2 Commit 2 - Rebase Activity 2.
+Commit #12 - Dev1Feat2 Commit 3 - Rebase Activity 2.
