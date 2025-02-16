@@ -13,3 +13,6 @@ Commit #6 during squash activity.
 Commit #7 during squash activity.
 
 Commit #8 during squash activity.
+
+This is developer 1's rebasing change.
+This is another change by developer 1.
