@@ -4,5 +4,7 @@ Hello from the secbranch!
 
 Hello from the Reset Activity!
 
+This is going to be reverted.
+
 Hello from the firstbr! -- Hello from the GitAmend branch!
 
